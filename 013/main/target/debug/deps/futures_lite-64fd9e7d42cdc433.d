@@ -1,9 +1,0 @@
-/Users/ziji/Documents/rust/Rust Async 异步编程（完结）/013/main/target/debug/deps/futures_lite-64fd9e7d42cdc433.rmeta: /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/lib.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/future.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/prelude.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/stream.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/io.rs
-
-/Users/ziji/Documents/rust/Rust Async 异步编程（完结）/013/main/target/debug/deps/futures_lite-64fd9e7d42cdc433.d: /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/lib.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/future.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/prelude.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/stream.rs /Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/io.rs
-
-/Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/lib.rs:
-/Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/future.rs:
-/Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/prelude.rs:
-/Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/stream.rs:
-/Users/ziji/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-df7c3c540f42cdbd/futures-lite-1.12.0/src/io.rs:
