@@ -55,7 +55,7 @@ impl TimerFuture {
             waker: None,
         }));
 
-        // 生成新线程，先把 shared_state 克隆一下
+        // 生成新线程，先把 shared_state 克隆一下，就是增加一个引用计数，实际指向的是同一个东西
         let thread_shared_state = shared_state.clone();
         thread::spawn(move || {
             // 首先线程休眠一段时间
